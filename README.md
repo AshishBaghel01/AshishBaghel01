@@ -46,7 +46,7 @@ MongoDB • MySQL • PostgreSQL
 
 ### AI & Tools
 
-OpenAI APIs • Git • GitHub • Docker • Postman • Figma
+AWS • Git • GitHub • Docker • Postman • Figma
 
 ---
 
@@ -89,17 +89,14 @@ Virtual interview platform enabling peer-to-peer and AI-powered mock interviews.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/u/ashishbaghel_11/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" />
-</a>
 </p>
 
 📧 Email: [ashishbaghel4113@gmail.com](mailto:ashishbaghel4113@gmail.com)
 
 ---
 
-### 💡 Quote
+### 💡
 
-"Code is not just about solving problems; it's about creating opportunities and impact."
+"Let Build Projects Together."
 
 
